@@ -1,8 +1,8 @@
 @import url(main.css);
 
 #container .highlight {
-  background-color: #ff6;
-  color: #c00;
+  background-color: red;
+  color: yellow;
   position: relative;
 }
 
